@@ -48,6 +48,7 @@ _Note: The 'Prepared Data' folder is not included due to size constraints, but i
 ## Scripts
 This folder contains Jupyter Notebooks documenting each step of the analysis process. Each script focuses on a specific task:  
 
+**Data Preparation:**
 - [Data Profiling and Cleaning](<03 Scripts/1. EDE_Data Profiling and Cleaning.ipynb>)  
 - [Data Merging](<03 Scripts/2. EDE_Data Merging.ipynb>)  
 
@@ -67,6 +68,7 @@ This folder contains Jupyter Notebooks documenting each step of the analysis pro
 - [By Activity Category](<03 Scripts/6.1 EDE_Clustering_Activity_Group.ipynb>)  
 - [With Feature Selection](<03 Scripts/6.2 EDE_Clustering with Features Selection.ipynb>)  
 
+**Time Series Analysis:**
 - [Time Series Analysis](<03 Scripts/7 EDE_Time Series Analysis.ipynb>)  
 
 ## Executing the code
