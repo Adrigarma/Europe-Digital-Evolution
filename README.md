@@ -75,7 +75,7 @@ This folder contains Jupyter Notebooks documenting each step of the analysis pro
 Clone the repository and run the Jupyter Notebook (.ipynb) files using **JupyterLab**, **Jupyter Notebook**, or any compatible environment.  
 
 ## Storyboard
-The interactive presentation is available here: [**Europe's Digital Evolution**](https://public.tableau.com/app/profile/adriana.garcia.marquez/viz/InternetUseinEurope/EuropesInternetEvolution).  
+The interactive presentation is available here: [**Europe's Digital Evolution**](https://public.tableau.com/app/profile/adriana.garcia.marquez/viz/EuropeDigitalEvolution/EuropesInternetEvolution).  
 
 It provides an overview of the analysis performed in Python and visualized in Tableau, highlighting:  
 - Differences in activity preferences across populations.  
